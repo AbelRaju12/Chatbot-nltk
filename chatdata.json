@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "tag": "greeting",
+            "pattern": ["hi", "hello", "good morning", "hoi", "hey", "whats up", "Wassup", "hey there !"],
+            "responses": ["Hi! How can I help?", "Hello! I am Eric. How can I assist you?", "Hey there!", "Hey!!", "Hi! Welcome"]
+        },
+        {
+            "tag": "funny",
+            "pattern": ["tell me a joke", "make me laugh", "say something funny", "joke", "funny"],
+            "responses": ["Why don't scientists trust atoms? Because they make up everything!", "Why was the math book sad? It had too many problems.", "I told my computer I needed a break, and now it won’t stop sending me Kit Kats.", "Why did the scarecrow win an award? Because he was outstanding in his field!"]
+        },
+        {
+            "tag": "hospitals",
+            "pattern": ["find hospitals", "nearby hospitals", "Ayurveda hospitals", "hospital location", "hospital finder"],
+            "responses": ["You can enter your location on our website, and it will return all nearby Ayurveda hospitals in that area.", "To find hospitals, use the hospital locator navigation icon in the navigation bar.", "Simply provide your location, and we'll show you the closest Ayurveda hospitals."]
+        },
+        {
+            "tag": "products",
+            "pattern": ["Ayurveda products", "medicines", "find medicines", "search products", "Ayurveda search"],
+            "responses": ["We have a wide range of Ayurveda medicines available on our website. You can use the search bar to find a specific one.", "To find Ayurveda medicines, use the specific nav icon 'Ayurveda Medicines' to switch to that page.", "Looking for a particular Ayurveda product? Use our search bar for quick results in the Ayurveda Medicines page."]
+        },
+        {
+            "tag": "thanks",
+            "pattern": ["thanks", "thank you", "thx", "ty", "much appreciated", "thankful"],
+            "responses": ["You're welcome!", "Happy to help!", "Anytime!", "You're very welcome!", "Glad I could assist!"]
+        },
+        {
+            "tag": "bye",
+            "pattern": ["bye", "goodbye", "see you", "later", "farewell"],
+            "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!", "Farewell!", "Bye! Come back soon!"]
+        },
+        {
+            "tag": "delivery",
+            "pattern": ["delivery options", "shipping", "how to get my order", "delivery time", "shipping methods"],
+            "responses": ["We offer various delivery options to suit your needs. Please check the 'Shipping' section for more details.", "You can find all the information about delivery times and methods in our 'Delivery Info' section.", "For details on how to get your order delivered, please visit our 'Shipping' page."]
+        }
+    ]
+}
